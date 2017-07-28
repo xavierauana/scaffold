@@ -3,7 +3,7 @@
     "description": "Laravel console model scaffolding",
     "type": "library",
     "require": {
-        "laravel/laravel": "5.4"
+        "laravel/laravel": "^5.4"
     },
     "license": "MIT",
     "authors": [
@@ -12,5 +12,5 @@
             "email": "xavier.au@anacreation.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev-master"
 }
