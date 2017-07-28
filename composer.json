@@ -11,5 +11,10 @@
 	  "name": "Xavier Au",
 	  "email": "xavier.au@anacreation.com"
 	}
-  ]
+  ],
+  "autoload": {
+	"psr-4": {
+	  "Anacreation\\Scaffold\\": "src/"
+	}
+  }
 }
